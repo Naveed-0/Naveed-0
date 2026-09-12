@@ -166,7 +166,7 @@ I'm a **Backend Python & AI Engineer** who designs and ships production-grade **
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/0e75b6/Naveed-0" alt="Naveed-0's GitHub contribution chart" width="90%"/>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naveed-0/Naveed-0/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naveed-0/Naveed-0/output/github-contribution-grid-snake.svg" /> <img alt="github contribution snake" src="https://raw.githubusercontent.com/Naveed-0/Naveed-0/output/github-contribution-grid-snake.svg" width="90%"/> </picture>
 
 </div>
 
