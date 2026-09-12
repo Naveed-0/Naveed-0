@@ -1,11 +1,3 @@
-<!--
--->
-
-<div align="center">
-
-
-<br/>
-<br/>
 
 <h1>Naveed Ahmed</h1>
 
