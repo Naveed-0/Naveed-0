@@ -1,3 +1,4 @@
+<div align="center">
 
 <h1>Naveed Ahmed</h1>
 
@@ -40,59 +41,28 @@
 <!-- Social Links -->
 
 <a href="https://www.linkedin.com/in/naveed-ahmed-2a7151317/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 <a href="https://medium.com/@soomronaveed185" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
-    alt="Medium"
-  />
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
-
 <a href="https://www.kaggle.com/naveedsoomro" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
-    alt="Kaggle"
-  />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
-
 <a href="https://codeforces.com/profile/soomronaveed185" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"
-    alt="Codeforces"
-  />
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </a>
-
 <a href="https://leetcode.com/u/naveedsoomro/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="LeetCode"
-  />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
-
 <a href="https://www.fiverr.com/naveedsoomro0?public_mode=true" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"
-    alt="Fiverr"
-  />
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
 </a>
-
 <a href="mailto:soomronaveed185@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
 <a href="https://drive.google.com/file/d/1-Sc6p3ProL32U2gHQeWdA9bkSgLATPdL/view?usp=sharing" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"
-    alt="Resume"
-  />
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
 </a>
 
 </div>
@@ -119,21 +89,16 @@ I'm a **Backend Python & AI Engineer** who designs and ships production-grade **
 <div align="center">
 
 ### Languages
-
 <br/>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
-<br/>
-<br/>
+<br/><br/>
 
 ### AI / LLM & Agentic Frameworks
-
 <br/>
-
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
 <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
@@ -142,26 +107,20 @@ I'm a **Backend Python & AI Engineer** who designs and ships production-grade **
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
 
-<br/>
-<br/>
+<br/><br/>
 
 ### Backend & APIs
-
 <br/>
-
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 
-<br/>
-<br/>
+<br/><br/>
 
 ### Data, Messaging & Storage
-
 <br/>
-
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -171,13 +130,10 @@ I'm a **Backend Python & AI Engineer** who designs and ships production-grade **
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
 
-<br/>
-<br/>
+<br/><br/>
 
 ### DevOps, Cloud & Tools
-
 <br/>
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -195,33 +151,44 @@ I'm a **Backend Python & AI Engineer** who designs and ships production-grade **
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-stats-extended.vercel.app/api?username=naveed-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"
-  alt="Naveed's GitHub stats"
-/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=naveed-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Naveed's GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=naveed-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
 
-<img
-  height="165"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=naveed-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
-  alt="Top languages"
-/>
+<br/><br/>
 
-<br/>
-<br/>
-
-<img
-  src="https://streak-stats.demolab.com/?user=naveed-0&theme=tokyonight&hide_border=true"
-  alt="GitHub streak stats"
-/>
-
-<br/>
-<br/>
+<img src="https://streak-stats.demolab.com/?user=naveed-0&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/0e75b6/naveed-0" alt="naveed-0's GitHub contribution chart" width="90%"/>
 
 </div>
+
+<!--
+  UPGRADE (optional, ~2 min setup): replace the calendar above with an
+  animated snake that "eats" your real contribution squares — it's one
+  of the most recognizable, professional-looking profile widgets, and
+  since it's a GitHub Action that commits to your OWN repo, it never
+  hits third-party rate limits.
+
+  1. Add the workflow file "snake.yml" (provided alongside this README)
+     to naveed-0/naveed-0/.github/workflows/snake.yml, commit it, then
+     run it once from the Actions tab (or wait for the daily schedule).
+  2. Once it has run successfully, it will create an "output" branch
+     with the generated SVGs. Replace the <img> block above with:
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naveed-0/naveed-0/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naveed-0/naveed-0/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/naveed-0/naveed-0/output/github-contribution-grid-snake.svg" width="90%"/>
+  </picture>
+-->
 
 <br/>
 
@@ -230,8 +197,10 @@ I'm a **Backend Python & AI Engineer** who designs and ships production-grade **
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | **GoGenie.ai** | AI agentic customer-support platform that automates business support conversations end-to-end | Python · LangGraph · FastAPI · LLM Agents | [Live](https://gogenie.ai/en) |
-| **Customer Support Agentic Workflow** | Multi-agent customer-support system using RAG, orchestration, and business knowledge retrieval | OpenAI SDK · LangChain · RAG · FastAPI · PostgreSQL · Redis | [GitHub](https://github.com/Naveed-0) |
-| **Agentic Lead Conversion System** | Automated lead qualification, follow-ups, scheduling, and business coordination | n8n · Gemini · ElevenLabs · Airtable · Google Calendar | [GitHub](https://github.com/Naveed-0) |
+| **Customer Support Agentic Workflow** | Multi-agent customer-support system using RAG, orchestration, and business knowledge retrieval | OpenAI SDK · LangChain · RAG · FastAPI · PostgreSQL · Redis | [GitHub](https://github.com/naveed-0/REPLACE-WITH-REPO-SLUG) |
+| **Agentic Lead Conversion System** | Automated lead qualification, follow-ups, scheduling, and business coordination | n8n · Gemini · ElevenLabs · Airtable · Google Calendar | [GitHub](https://github.com/naveed-0/REPLACE-WITH-REPO-SLUG) |
+
+<!-- Swap REPLACE-WITH-REPO-SLUG for the actual repo name once these projects have their own repos, so the links go to the project instead of your profile page. -->
 
 <br/>
 
@@ -268,26 +237,14 @@ Open to conversations around **agentic AI, multi-agent systems, RAG, AI backend 
 <br/>
 
 <a href="https://www.linkedin.com/in/naveed-ahmed-2a7151317/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="Connect on LinkedIn"
-  />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-
 <a href="mailto:soomronaveed185@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Send Email"
-  />
+  <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0f2027&height=100&section=footer"
-  width="100%"
-  alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0f2027&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
