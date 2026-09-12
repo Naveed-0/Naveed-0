@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0e75b6&height=200&section=header&text=Naveed%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Python%20%26%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://quantumzeitgeist.com/python-and-artificial-intelligence/" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+LLM+Systems+%26+Agentic+Workflows;LangGraph+%7C+LangChain+%7C+MCP+%7C+RAG;FastAPI+%2F+Django+%2F+Docker+%2F+Kafka;Aspiring+AI+Researcher" alt="Typing SVG" />
