@@ -218,24 +218,8 @@ I'm a **Backend Python & AI Engineer** who designs and ships production-grade **
 <br/>
 <br/>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=naveed-0&theme=tokyo-night&hide_border=true&area=true"
-  alt="GitHub contribution activity graph"
-  width="100%"
-/>
-
 </div>
 
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=naveed-0&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"
-  alt="GitHub trophies"
-/>
 
 </div>
 
