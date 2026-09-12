@@ -1,23 +1,3 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24436
-Fork on GitHub
-8406
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi there 👋, I'm Naveed Ahmed</h1>
 <h3 align="center">Backend Python & AI Engineer Building LLM Systems, Agentic Worlflows & Aspiring Researcher</h3>
 
