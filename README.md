@@ -1,43 +1,188 @@
-<h1 align="center">Hi there 👋, I'm Naveed Ahmed</h1>
-<h3 align="center">Backend Python & AI Engineer Building LLM Systems, Agentic Worlflows & Aspiring Researcher</h3>
+<!--
+  ============================================================
+  README.md — GitHub Profile for naveed-0
+  ------------------------------------------------------------
+  This file is meant to live at:
+  https://github.com/naveed-0/naveed-0/blob/main/README.md
+  (a repo with the SAME name as your username shows up on your profile)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveed-0&label=Profile%20views&color=0e75b6&style=flat" alt="naveed-0" /> </p>
+  A few widgets below use free, community-run "vercel.app" services.
+  They're best-effort and can occasionally rate-limit under heavy
+  traffic — that's normal for every dev's profile README, not a sign
+  something is broken. If a card ever shows "Error" for more than a
+  day, it usually resolves itself; the fallback is to fork the linked
+  tool and point the URL at your own deployment.
+  ============================================================
+-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveed-0" alt="naveed-0" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [GoGenie.ai an AI Agentic Customer Support Platform for Businesses](https://gogenie.ai/en)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0e75b6&height=200&section=header&text=Naveed%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Python%20%26%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-- 🌱 I’m currently learning **Translating frontier AI research (Test-Time Compute, Model Verification, Multimodal Agents) into production-grade systems to maximize human productivity.**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+LLM+Systems+%26+Agentic+Workflows;LangGraph+%7C+LangChain+%7C+MCP+%7C+RAG;FastAPI+%2F+Django+%2F+Docker+%2F+Kafka;Aspiring+AI+Researcher" alt="Typing SVG" />
+</a>
 
-- 👯 I’m looking to collaborate on [Research in autonomous multi-agent orchestration, complex reasoning architectures, and verifiable real-world reliability](https://medium.com/@soomronaveed185)
+<br/>
 
-- 🤝 I’m looking for help with [Bridging industrial multi-agent scalability with academic research in neuro-symbolic AI for global impact.](https://www.linkedin.com/in/naveed-ahmed-2a7151317/)
+<img src="https://komarev.com/ghpvc/?username=naveed-0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/naveed-0?tab=followers"><img src="https://img.shields.io/github/followers/naveed-0?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" /></a>
 
-- 👨‍💻 All of my projects are available at [https://www.fiverr.com/naveedsoomro0?public_mode=true](https://www.fiverr.com/naveedsoomro0?public_mode=true)
+<br/><br/>
 
-- 📝 I regularly write articles on [https://medium.com/@soomronaveed185](https://medium.com/@soomronaveed185)
+<a href="https://www.linkedin.com/in/naveed-ahmed-2a7151317/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@soomronaveed185" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.kaggle.com/naveedsoomro" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/soomronaveed185" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://leetcode.com/u/naveedsoomro/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.fiverr.com/naveedsoomro0?public_mode=true" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+<a href="mailto:soomronaveed185@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1-Sc6p3ProL32U2gHQeWdA9bkSgLATPdL/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 
-- 💬 Ask me about **Python, LangGraph,LangChain, MCP, RAG, FastAPI, Django, Docker, PostgreeSQL , Celery, Redis, Kafka, and scaling production-grade AI backend infrastructures**
+</div>
 
-- 📫 How to reach me **soomronaveed185@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-Sc6p3ProL32U2gHQeWdA9bkSgLATPdL/view?usp=sharing](https://drive.google.com/file/d/1-Sc6p3ProL32U2gHQeWdA9bkSgLATPdL/view?usp=sharing)
+## 👋 About Me
 
-- ⚡ Fun fact **I also consult local non-tech business owners how to deploy low-code backend agentic workflows before they even knew what Python was.**
+I'm a **Backend Python & AI Engineer** who designs and ships production-grade **LLM systems and agentic workflows** — and I'm working toward becoming an AI researcher along the way.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/naveed-ahmed-2a7151317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveed-ahmed-2a7151317/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/naveedsoomro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/naveedsoomro" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/soomronaveed185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/soomronaveed185" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/naveedsoomro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/naveedsoomro/" height="30" width="40" /></a>
-</p>
+- 🔭 **Currently building:** [GoGenie.ai](https://gogenie.ai/en) — an AI agentic customer-support platform for businesses
+- 🌱 **Currently learning:** translating frontier AI research (test-time compute, model verification, multimodal agents) into production systems that maximize human productivity
+- 👯 **Looking to collaborate on:** autonomous multi-agent orchestration, complex reasoning architectures, and verifiable real-world reliability — [see my writing](https://medium.com/@soomronaveed185)
+- 🤝 **Looking for guidance on:** bridging industrial multi-agent scalability with academic research in neuro-symbolic AI
+- 👨‍💻 **All freelance work:** [fiverr.com/naveedsoomro0](https://www.fiverr.com/naveedsoomro0?public_mode=true)
+- 📝 **I write regularly on:** [Medium](https://medium.com/@soomronaveed185)
+- 📫 **Reach me at:** soomronaveed185@gmail.com
+- ⚡ **Fun fact:** I consult local, non-technical business owners on deploying low-code agentic backend workflows — before they even know what Python is.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveed-0&show_icons=true&locale=en&layout=compact" alt="naveed-0" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveed-0&show_icons=true&locale=en" alt="naveed-0" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveed-0&" alt="naveed-0" /></p>
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+**AI / LLM & Agentic Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6E4AFF?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+**Backend & APIs**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+**Data, Messaging & Storage**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+
+**DevOps, Cloud & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=naveed-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Naveed's GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=naveed-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=naveed-0&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveed-0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
+
+</div>
+
+<!--
+  These cards read directly from your public activity, so total
+  repos, streaks, and commit history update automatically — nothing
+  here needs to be hand-edited. If you'd rather show *private*
+  contributions too, follow the self-hosting instructions in
+  https://github.com/stats-organization/github-stats-extended
+  and swap in your own deployment URL + a personal access token.
+-->
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=naveed-0&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **GoGenie.ai** | AI agentic customer-support platform that automates business support conversations end-to-end | Python · LangGraph · FastAPI · LLM Agents | [gogenie.ai](https://gogenie.ai/en) |
+| *Your next project* | *One-line description of the problem it solves* | *Key stack* | *Repo/live link* |
+| *Your next project* | *One-line description of the problem it solves* | *Key stack* | *Repo/live link* |
+
+</div>
+
+<!--
+  To feature a specific GitHub repo as a rich, auto-updating card
+  (stars, forks, language) instead of a table row, pin it on your
+  profile, then embed it like this:
+
+  <a href="https://github.com/naveed-0/YOUR-REPO-NAME">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=naveed-0&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true" />
+  </a>
+
+  Replace YOUR-REPO-NAME with the exact repo slug. Repeat for up to
+  6 repos, wrapped in a <p align="center"> block.
+-->
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Open to conversations on multi-agent systems, neuro-symbolic AI, or scaling AI backend infrastructure.
+Reach out on [LinkedIn](https://www.linkedin.com/in/naveed-ahmed-2a7151317/) or drop a note at **soomronaveed185@gmail.com**.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
