@@ -10,7 +10,7 @@
 <img
   src="https://i.pinimg.com/1200x/60/85/6e/60856e469a30a8a75e2ad339a9b83f40.jpg"
   alt="Naveed Ahmed"
-  width="420"
+  width="40"
 />
 
 <br/>
