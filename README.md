@@ -24,13 +24,13 @@
 
 <!-- Profile Stats -->
 <img
-  src="https://komarev.com/ghpvc/?username=naveed-0&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+  src="https://komarev.com/ghpvc/?username=Naveed-0&label=Profile%20Views&color=0e75b6&style=for-the-badge"
   alt="Profile views"
 />
 
-<a href="https://github.com/naveed-0?tab=followers">
+<a href="https://github.com/Naveed-0?tab=followers">
   <img
-    src="https://img.shields.io/github/followers/naveed-0?label=Followers&style=for-the-badge&color=0e75b6"
+    src="https://img.shields.io/github/followers/Naveed-0?label=Followers&style=for-the-badge&color=0e75b6"
     alt="GitHub followers"
   />
 </a>
@@ -151,12 +151,12 @@ I'm a **Backend Python & AI Engineer** who designs and ships production-grade **
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=naveed-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Naveed's GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=naveed-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Naveed-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Naveed's GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Naveed-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=naveed-0&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com/?user=Naveed-0&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
@@ -166,7 +166,7 @@ I'm a **Backend Python & AI Engineer** who designs and ships production-grade **
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/0e75b6/naveed-0" alt="naveed-0's GitHub contribution chart" width="90%"/>
+<img src="https://ghchart.rshah.org/0e75b6/Naveed-0" alt="Naveed-0's GitHub contribution chart" width="90%"/>
 
 </div>
 
@@ -178,15 +178,15 @@ I'm a **Backend Python & AI Engineer** who designs and ships production-grade **
   hits third-party rate limits.
 
   1. Add the workflow file "snake.yml" (provided alongside this README)
-     to naveed-0/naveed-0/.github/workflows/snake.yml, commit it, then
+     to Naveed-0/Naveed-0/.github/workflows/snake.yml, commit it, then
      run it once from the Actions tab (or wait for the daily schedule).
   2. Once it has run successfully, it will create an "output" branch
      with the generated SVGs. Replace the <img> block above with:
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naveed-0/naveed-0/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naveed-0/naveed-0/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/naveed-0/naveed-0/output/github-contribution-grid-snake.svg" width="90%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naveed-0/Naveed-0/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naveed-0/Naveed-0/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Naveed-0/Naveed-0/output/github-contribution-grid-snake.svg" width="90%"/>
   </picture>
 -->
 
@@ -197,8 +197,9 @@ I'm a **Backend Python & AI Engineer** who designs and ships production-grade **
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | **GoGenie.ai** | AI agentic customer-support platform that automates business support conversations end-to-end | Python · LangGraph · FastAPI · LLM Agents | [Live](https://gogenie.ai/en) |
-| **Customer Support Agentic Workflow** | Multi-agent customer-support system using RAG, orchestration, and business knowledge retrieval | OpenAI SDK · LangChain · RAG · FastAPI · PostgreSQL · Redis | [GitHub](https://github.com/naveed-0/REPLACE-WITH-REPO-SLUG) |
-| **Agentic Lead Conversion System** | Automated lead qualification, follow-ups, scheduling, and business coordination | n8n · Gemini · ElevenLabs · Airtable · Google Calendar | [GitHub](https://github.com/naveed-0/REPLACE-WITH-REPO-SLUG) |
+| **Banking Loan Guard** | Deep-learning credit risk engine that closes the "sparsity gap" between 297-feature bureau models and a 7-field real-time loan application, using a custom PyTorch MLP with a feature-masking inference layer and a 3-tier automated risk-decision system | PyTorch · Gradio · Feature Engineering | [Live Demo](https://huggingface.co/spaces/Soomro0/banking-loan-guard) · [Kaggle](https://www.kaggle.com/code/naveedsoomro/end-to-end-credit-default-prediction) · [GitHub](https://github.com/Naveed-0/Banking-Loan-Guard-Pytorch) |
+| **Customer Support Agentic Workflow** | Multi-agent customer-support system using RAG, orchestration, and business knowledge retrieval | OpenAI SDK · LangChain · RAG · FastAPI · PostgreSQL · Redis | [GitHub](https://github.com/Naveed-0/REPLACE-WITH-REPO-SLUG) |
+| **Agentic Lead Conversion System** | Automated lead qualification, follow-ups, scheduling, and business coordination | n8n · Gemini · ElevenLabs · Airtable · Google Calendar | [GitHub](https://github.com/Naveed-0/REPLACE-WITH-REPO-SLUG) |
 
 <!-- Swap REPLACE-WITH-REPO-SLUG for the actual repo name once these projects have their own repos, so the links go to the project instead of your profile page. -->
 
