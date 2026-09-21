@@ -40,7 +40,7 @@
 
 <!-- Social Links -->
 
-<a href="https://www.linkedin.com/in/naveed-ahmed-2a7151317/" target="_blank">
+<a href="https://www.linkedin.com/in/naveed0/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://medium.com/@soomronaveed185" target="_blank">
